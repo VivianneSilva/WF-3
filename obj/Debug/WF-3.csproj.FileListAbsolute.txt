@@ -1,0 +1,11 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\bin\Debug\WF-3.exe.config
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\bin\Debug\WF-3.exe
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\bin\Debug\WF-3.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\obj\Debug\WF-3.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\obj\Debug\WF-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\obj\Debug\WF_3.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\obj\Debug\WF-3.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\obj\Debug\WF-3.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\obj\Debug\WF-3.exe
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\obj\Debug\WF-3.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\WF-3\obj\Debug\WF_3.Form1.resources
